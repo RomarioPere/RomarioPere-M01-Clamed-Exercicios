@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+
+header {
+    background-color: #FFB74D;
+    height: 100px;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 25px;
+    color: #FF8F00;
+}
+
+#nav-bar, a {
+    padding: 30px;
+    margin: 0 auto;
+    text-align: center;
+
+    
+}
+
+a {
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+
