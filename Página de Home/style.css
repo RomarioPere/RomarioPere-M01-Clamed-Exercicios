@@ -22,7 +22,8 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18.5px;
+    padding: 10px 20px;
 }
   
 
@@ -51,5 +52,60 @@ a {
     border-radius: 5px;
     text-decoration: none;
     color: black;
+}
+
+p {
+    padding: 10px 20px;
+    
+}
+
+.principal {
+    width: 700px;
+    margin: 0 auto;
+    background-color: white;
+    box-shadow: 0 0 10px 3px gray;
+    height: 100%;
+}
+
+#cardapio {
+    padding: 20px;
+}
+
+.imagem, img {
+    width: 300px;
+    margin: auto;
+    
+}
+
+.imagem2, img {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+
+    
+}
+
+table {
+    width: 650px;
+    margin: auto;
+    border-collapse: collapse;
+    
+
+}
+
+.th {
+    color: white;
+    background-color: #FF8F00;
+    border-collapse: collapse;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+th {
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    padding: 8px;
 }
 
